@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<parameter name="baseURI" value="https://samples.openweathermap.org/data/2.5" />
+	<parameter name="API_Key" value="7fe67bf08c80ded756e598d6f8fedaea" />
+	<test thread-count="5" name="Test">
+
+		<classes>
+			<class name = "api.weatherDetails.GetCitiesWeatherDetailsTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
