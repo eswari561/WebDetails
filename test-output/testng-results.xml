@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6881" started-at="2020-08-31T20:03:46 IST" finished-at="2020-08-31T20:03:53 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6881" started-at="2020-08-31T20:03:46 IST" finished-at="2020-08-31T20:03:53 IST">
+      <class name="api.weatherDetails.GetCitiesWeatherDetailsTest">
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:api.weatherDetails.GetCitiesWeatherDetailsTest@694e1548]" name="beforeClass" is-config="true" duration-ms="855" started-at="2020-08-31T20:03:46 IST" finished-at="2020-08-31T20:03:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://samples.openweathermap.org/data/2.5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7fe67bf08c80ded756e598d6f8fedaea]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="getWeatherDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:api.weatherDetails.GetCitiesWeatherDetailsTest@694e1548]" name="getWeatherDetails" duration-ms="4487" started-at="2020-08-31T20:03:47 IST" data-provider="weather" finished-at="2020-08-31T20:03:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Get weather details of the Londaon]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[city]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[London,uk]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[439d4b804bc8187953eb36d2a8c26a02]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherDetails -->
+        <test-method status="PASS" signature="getWeatherDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, int)[pri:0, instance:api.weatherDetails.GetCitiesWeatherDetailsTest@694e1548]" name="getWeatherDetails" duration-ms="1469" started-at="2020-08-31T20:03:52 IST" data-provider="weather" finished-at="2020-08-31T20:03:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Get weather details of the Londaon]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[city.Error]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[439d4b804bc8187953eb36d2a8c26a02]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[404]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherDetails -->
+      </class> <!-- api.weatherDetails.GetCitiesWeatherDetailsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

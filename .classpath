@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (2)/httpmime-4.5.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (12)/rest-assured-common-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/activation-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/commons-codec-1.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/commons-lang3-3.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/groovy-2.5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/groovy-json-2.5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/groovy-xml-2.5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/hamcrest-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/hamcrest-core-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/hamcrest-library-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/httpclient-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/httpcore-4.4.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/jaxb-api-2.2.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/jaxb-osgi-2.2.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/json-path-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/rest-assured-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/tagsoup-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/jar_files (13)/xml-path-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nagamalleswari.Sykam/Downloads/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
